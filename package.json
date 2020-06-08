@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-blog-app",
+  "version": "1.0.0",
+  "description": "This app posts blogs about French Restaurant named L'Empreinte Bistro",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nodirbek Jamoldinov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.7.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nodirbek75/Restaurant-Blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nodirbek75/Restaurant-Blog/issues"
+  },
+  "homepage": "https://github.com/Nodirbek75/Restaurant-Blog#readme"
+}

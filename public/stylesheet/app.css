@@ -1,0 +1,15 @@
+.ui.fixed.inverted.menu{
+    background-color: #4d1313;
+}
+.main.container{
+    margin-top: 7em;
+}
+.fa-fingerprint{
+    font-size: 1.5em;
+}
+.ui.huge.header{
+    color: #4d1313;
+}
+#delete{
+    display: inline-block;
+}
